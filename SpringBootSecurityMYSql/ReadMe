@@ -1,2 +1,6 @@
 Before running this application just make a entry in role table for ADMIN
 REPLACE INTO `role` VALUES (1,'ADMIN');
+
+URLs
+For Login - http://localhost:8080/
+For Registration - http://localhost:8080/registration
